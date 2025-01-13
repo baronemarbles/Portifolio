@@ -1,19 +1,27 @@
+.montserrat_regular{
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+
+    }
+    
 .bebas-neue-regular {
     font-family: "Bebas Neue", serif;
     font-weight: 400;
     font-style: normal;
   }
 
-  .playfair-display-regular {
+.playfair-display-regular {
     font-family: "Playfair Display", serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    }
+  }
 
-    .montserrat-regular {
-      font-family: "Montserrat", serif;
-      font-optical-sizing: auto;
-      font-weight: 400;
-      font-style: normal;
-    }
+.roboto-slab-light {
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+  }
